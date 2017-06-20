@@ -32,11 +32,11 @@
 
   <distributionManagement>
     <repository>
-      <id>packagecloud-examplecorp</id>
+      <id>packagecloud-exampleCorp</id>
       <url>packagecloud+https://packagecloud.io/exampleCorp/main</url>
     </repository>
     <snapshotRepository>
-      <id>packagecloud-examplecorp</id>
+      <id>packagecloud-exampleCorp</id>
       <url>packagecloud+https://packagecloud.io/exampleCorp/main</url>
     </snapshotRepository>
   </distributionManagement>
