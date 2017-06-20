@@ -8,4 +8,4 @@ This project aims to generate a Java JAR library package for testing purposes.
 
 ## Copyright
 
-Computology LLC 2017
+Computology, LLC 2017
